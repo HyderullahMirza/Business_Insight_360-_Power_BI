@@ -1,90 +1,83 @@
-### Business Insight 360: Powering AtliQ Hardware's Success Journey with Power BI Magic! 🚀
+**Business Insight 360 - Power BI: AtliQ Hardware**
 
-**Project Overview**
+### **Project Overview**
 
-Picture this: AtliQ Hardware, a company on the rise, has set its sights on data-driven domination. They've embarked on a thrilling adventure into the world of data analytics using Power BI for the very first time! Their mission? To outshine competitors, make insightful decisions, and conquer the market. Enter Business Insight 360 - the ultimate toolset designed to answer every stakeholder's question, from finance and sales to marketing and supply chain.
+AtliQ Hardware, experiencing rapid growth, embarked on a data analytics journey using Power BI. This initiative aimed to empower stakeholders with insights across finance, sales, marketing, and supply chain domains, enabling data-driven decision-making.
 
-[**Check Out the Live Report Here!**](#) 📊
+**Live Report Link:** : https://app.powerbi.com/view?r=eyJrIjoiNzhjNDQ2MzctZTYxZC00ZjExLTllMDMtZjdjYWU0M2U5MTY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73
 
-**Tech Stacks**
+### **Tech Stacks**
 
-- SQL 💾
-- Power BI Desktop 🖥️
-- Excel 📈
-- DAX Language 🧠
-- DAX Studio (For that extra magic touch!) ✨
-- Project Charter File 📋
+- **SQL**
+- **PowerBI Desktop**
+- **Excel**
+- **DAX Language**
+- **DAX Studio** (for optimization)
+- **Project Charter File**
 
-**PowerBI Techniques Mastered**
+### **PowerBI Techniques Mastered**
 
-- Creating Enchanting Calculated Columns ✨
-- Crafting Measures with the Mystical DAX Language 🎩
-- Data Modeling Wizardry 🧙
-- Using Bookmarks to Navigate Between Visual Realms 📚
-- Page Navigation with Button Spells 🧚
-- Preventing Zero Division Errors with the Divide Function ⚡
-- Creating Time-Traveling Date Tables with M Language 🕰️
-- Dynamic Titles that Change with the Wind 💨
-- Conjuring KPI Indicators for Magical Insights 🌟
-- Casting Conditional Formatting Spells on Visuals 🎇
-- Data Validation Alchemy ✅
-- Harnessing the Power of Power BI Services in the Cloud ☁️
-- Setting Up Personal Gateways for Auto-Refresh Potions 🔄
-- Crafting Power BI Apps like a Master Sorcerer 🧙‍♂️
-- Mastering the Art of Collaboration, Workspaces, and Access Permissions in Power BI Services 👥
+- Calculated Columns
+- Measures with DAX
+- Data Modeling
+- Bookmarks for Visual Switching
+- Page Navigation with Buttons
+- Handling Zero Division with Divide Function
+- Dynamic Date Table Creation with M Language
+- Dynamic Titles Based on Filters
+- KPI Indicators
+- Conditional Formatting
+- Data Validation Techniques
+- PowerBI Services, Report Publishing
+- Personal Gateway Setup
+- PowerBI App Creation
+- Collaboration, Workspace Management
 
-**Business Enchantments**
+### **Business Terminology**
 
-- Gross Price Charms 💰
-- Pre-Invoice Deduction Enigmas 🧩
-- Post-Invoice Deduction Puzzles 🎭
-- Net Invoice Sale Secrets 🔍
-- Unveiling the Mysteries of Gross Margin 🌌
-- Net Sales Spells 📦
-- Brewing Potions of Net Profit 🌟
-- The Enigma of Cost of Goods Sold (COGC) 🔮
-- Year-to-Date (YTD) Chronicles 📅
-- Year-to-Go (YTG) Adventures 🔮
-- Direct Pathways to Success 🎯
-- Retailer Realms 👑
-- Distributor Dimensions 🌐
-- Consumer Connections 🤝
+- Gross Price
+- Pre-Invoice Deductions
+- Post-Invoice Deductions
+- Net Invoice Sale
+- Gross Margin
+- Net Sales
+- Net Profit
+- COGC (Cost of Goods Sold)
+- YTD (Year to Date)
+- YTG (Year to Go)
+- Direct, Retailer, Distributors, Consumer
 
-**Company Chronicles**
+### **Company Background**
 
-AtliQ Hardware, a global powerhouse, sells computers and accessories through three magical channels, spreading their influence far and wide.
+AtliQ Hardware, a global computer and accessories retailer, expanded its business channels worldwide, driving substantial growth.
 
-**Our Enchanting Solution**
+### **Solution Implementation**
 
-- **Step 1: Understanding the Company's Dreams:** We dove deep into the desires of AtliQ, aligning our magic with their expectations, deadlines, and stakeholder needs.
+- **Understanding Expectations:** Align project goals with stakeholder expectations and set deadlines.
+- **Mockup and Approval:** Create mockups, gain client approval, and incorporate feedback.
+- **Benchmark Numbers:** Acquire benchmark data for result verification.
+- **Data Collection and Cleaning:** Gather and clean relevant data for analysis.
+- **Data Transformation:** Utilize Power Query for data manipulation, creating fact and dimension tables.
+- **Data Modeling:** Implement Snowflake schema, connecting fact and dimension tables.
+- **Dashboard Design:** Develop dashboards based on approved mockups, incorporating calculated measures.
   
-- **Step 2: Spells of Visualization:** Crafting mesmerizing mockups, we sought approval from the Client, ensuring our visions aligned with their dreams. Feedback guided our wand's dance for perfection.
-  
-- **Step 3: Seeking Ancient Wisdom (Benchmark Numbers):** Armed with benchmark numbers, we verified our spells for accuracy, ensuring our results were as enchanting as the legends foretold.
-  
-- **Step 4: Data Alchemy:** Collecting raw ingredients, we meticulously cleaned and transformed the data, creating the potion for magical insights.
-  
-- **Step 5: Dimensional Magic:** Weaving the fabric of our reports, we created Fact Tables filled with transactional wonders and Dimension Tables, each holding unique secrets. The Snowflake Schema united our dimensions in harmony.
+### **Finance View**
 
-- **Step 6: DAX Spells and Validation Charms:** Utilizing the ancient DAX language, we conjured calculated columns and measures, ensuring our numbers danced to the right tunes. Validating our potions with Pivot Tables, we safeguarded the sanctity of our insights.
+- **Metrics and Reports:** Develop P&L statements, charts, slicers, and KPI indicators for finance team monitoring.
+- **Dynamic Filtering:** Enable dynamic filtering between current sales data and previous year/target data.
+- **Region and Segment Analysis:** Provide region-wise and segment-wise P&L statements with percentage change insights.
 
-**Dashboard Chronicles**
+### **Sales View**
 
-**Finance Realm:**
-- Unveiled Mystical Metrics, Filters, and Charts for the Finance Wizards.
-- Forged Dynamic Slicers, enabling time-travel between past and present financial landscapes.
-- Charted Regions and Segments, revealing Profit and Loss Statements like never before.
+- **Customer-Centric Reports:** Generate customer-wise net sales, gross margin, and percentage insights.
+- **Performance Metrics:** Develop performance matrices for region-wise customer analysis.
+- **Product Performance:** Create detailed reports for product sales and margins.
 
-**Sales Saga:**
-- Illuminated Customer-Specific Net Sales and Magical Margins.
-- Wove Performance Matrices, revealing the secrets of regional customer dominance.
-- Crafted Chronicles of Product Performance, uncovering the hidden gems of sales enchantment.
+### **Supply Chain View**
 
-**Supply Chain Chronicles:**
-- Forged KPIs of Forecast Accuracy, Net Error, and Absolute Net Error.
-- Drew Line and Bar Charts, depicting the ebb and flow of supply chain wonders.
-- Revealed Customer and Segment Chronicles, detailing the mystique of forecast accuracy and net error.
+- **KPI Analysis:** Implement KPIs for forecast accuracy, net error, and absolute net error.
+- **Trend Analysis:** Visualize trend data with line/bar charts for accuracy and error metrics.
+- **Customer and Segment Reports:** Deliver detailed reports on forecast accuracy and error metrics for different customer segments.
 
-In this magical journey, AtliQ Hardware now wields the power of insights, making strategic decisions, and charting their course to victory. Our Power BI sorcery has empowered them to transcend boundaries and conquer realms, all through the lens of data-driven enchantment.
+By following this structured approach, AtliQ Hardware has gained comprehensive insights into their business operations, paving the way for informed and strategic decision-making.
 
-May your data always be insightful and your insights always be magical! ✨🔮
