@@ -1,9 +1,9 @@
 ### Project Overview
 AtliQ Hardware, experiencing rapid growth, embarked on a data analytics journey using Power BI. This initiative aimed to empower stakeholders with insights across finance, sales, marketing, and supply chain domains, enabling data-driven decision-making.
 
-### Live Report : https://app.powerbi.com/view?r=eyJrIjoiNzhjNDQ2MzctZTYxZC00ZjExLTllMDMtZjdjYWU0M2U5MTY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73
+### Live Report : [Link](https://app.powerbi.com/view?r=eyJrIjoiNzhjNDQ2MzctZTYxZC00ZjExLTllMDMtZjdjYWU0M2U5MTY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73)
 
-### Video Presentation: https://www.youtube.com/embed/66QdYaRTckQ
+### Video Presentation: [Link](https://www.youtube.com/embed/66QdYaRTckQ)
 
 #### Tech Stacks
 •	SQL
